@@ -1,20 +1,20 @@
 [
     {
         "ident": "drawinppinvr",
-        "version": "1.0.1",
-        "patchnotes_url": "https://github.com/TheGrammarJew/DrawInPreplanningInVR/releases/tag/v1.0.1",
-        "download_url": "https://github.com/TheGrammarJew/DrawInPreplanningInVR/releases/download/v1.0.1/draw_in_preplanning_in_vr.zip"
+        "version": "1.0.2",
+        "patchnotes_url": "https://github.com/TheGrammarJew/DrawInPreplanningInVR/releases/tag/v1.0.2",
+        "download_url": "https://github.com/TheGrammarJew/DrawInPreplanningInVR/releases/download/v1.0.2/draw_in_preplanning_in_vr.zip"
     },
     {
         "ident": "chatpingbasic",
-        "version": "1.1",
-        "patchnotes_url": "https://github.com/TheGrammarJew/ChatPing/releases/tag/v1.1",
+        "version": "1.1.1",
+        "patchnotes_url": "https://github.com/TheGrammarJew/ChatPing/releases/tag/v1.1.1",
         "download_url": "https://github.com/TheGrammarJew/ChatPing/releases/download/v1.1/Chat_Ping_basic.zip"
     },
     {
         "ident": "chatpingbeardlib",
-        "version": "1.1",
-        "patchnotes_url": "https://github.com/TheGrammarJew/ChatPing/releases/tag/v1.1",
-        "download_url": "https://github.com/TheGrammarJew/ChatPing/releases/download/v1.1/Chat_Ping_beardlib.zip"
+        "version": "1.1.1",
+        "patchnotes_url": "https://github.com/TheGrammarJew/ChatPing/releases/tag/v1.1.1",
+        "download_url": "https://github.com/TheGrammarJew/ChatPing/releases/download/v1.1.1/Chat_Ping_beardlib.zip"
     }
 ]
